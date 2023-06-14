@@ -1,6 +1,6 @@
 {
   "name": "@monorepolerna/demo-main",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "> TODO: description",
   "author": "Hima Bindu <himabindu.alapati1@gmail.com>",
   "homepage": "https://github.com/himaalapati/monorepoLerna#readme",
@@ -22,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/himaalapati/monorepoLerna/issues"
   },
-  "gitHead": "2c25f4c60d3c89466aada38079a5649a42aeee9e"
+  "gitHead": "2c6c3bea863ea7d9c3948935cf7c31bb5e4312fc"
 }
