@@ -1,0 +1,25 @@
+{
+  "name": "@monorepolerna/demo-tools",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Hima Bindu <himabindu.alapati1@gmail.com>",
+  "homepage": "https://github.com/himaalapati/monorepoLerna#readme",
+  "license": "ISC",
+  "main": "lib/demo-tools.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "tsc"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himaalapati/monorepoLerna.git"
+  },
+  "bugs": {
+    "url": "https://github.com/himaalapati/monorepoLerna/issues"
+  }
+}
