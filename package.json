@@ -1,5 +1,5 @@
 {
-  "name": "monorepolerna",
+  "name": "@himabindu1/monorepolerna",
   "version": "0.0.1",
   "workspaces": [
     "packages/*"
