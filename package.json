@@ -1,6 +1,6 @@
 {
-  "name": "@himabindu1/monorepolerna",
-  "version": "0.0.9",
+  "name": "monorepolerna",
+  "version": "0.0.10",
   "workspaces": [
     "packages/*"
   ],
