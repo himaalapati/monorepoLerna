@@ -1,6 +1,6 @@
 {
   "name": "@himabindu1/monorepolerna",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "workspaces": [
     "packages/*"
   ],
@@ -8,7 +8,8 @@
     "lerna": "^6.6.2"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "start": "tsc",
